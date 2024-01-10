@@ -1,2 +1,2 @@
 # Extraction-and-visualization-of-StockData
-Using Webscrapping and yfinance
+Using BeautifulSoup in Webscrapping and Ticker in yfinance
